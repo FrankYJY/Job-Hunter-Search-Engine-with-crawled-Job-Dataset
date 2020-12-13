@@ -6,10 +6,15 @@ Language: python
 A team project collaborated by Yao, Lu, Chen, Cao
 
 use spider to crawl Lagou website
+
 tfidf-cosine similarity for ranking documents
+
 ide regular method to learn from the search history and relevant and irrelevant results marked by users
+
 Tkinter based UI
+
 standard login module
+
 main search window with page swifting
 
 Run UI.py to start the whole system
