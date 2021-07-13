@@ -5,7 +5,7 @@ Language: python
 
 A team project collaborated by Junyan Yao, Yu Lu, Wentao Chen, Yi Cao
 
-+ use spider to crawl Lagou website
++ use spider to crawl Lagou website (https://www.lagou.com/)
 
 + tfidf-cosine similarity for ranking documents
 
